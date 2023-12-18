@@ -1,0 +1,62 @@
+#header{
+  text-align: center;
+  padding: 10px;
+  font-size: 90px;
+  font-style: bold;
+}
+#dot{
+  color: orangered;
+}
+#search-btn{
+  text-align: center;
+}
+#search-btn input{
+  width: 250px;
+  height: 45px;
+  color: white;
+  font-size: 20px;
+  border-radius: 0;
+  margin-bottom: 2cqh;
+}
+#search-btn Button{
+  width: 50px;
+  height: 50px;
+  padding: 5px;
+  background-color: red;
+  border-radius: 0;
+  font-size: 20px;
+}
+#para{
+  color: red;
+  text-align: center;
+}
+#news-con{
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-around;
+ height: 100vh;
+}
+#news-item{
+  display: flex;
+ flex-direction: row;
+ flex-wrap: wrap;
+ flex-wrap: wrap;
+  width: 280px;
+  height: 500px;
+  padding: 5px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+
+}
+#img-cls{
+  width: 260px;
+  height: 140px;
+}
+#link{
+  color: black;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;
+}
+.footer{
+  text-align: center;
+}
